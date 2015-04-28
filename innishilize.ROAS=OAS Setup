@@ -1,0 +1,6 @@
+ROAS(OAS Setup) {
+innish(OAS Setup) {
+GetSet(OAS);
+BoardGetSet(innish,OAS(BoardType));
+}
+}
