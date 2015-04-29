@@ -7,3 +7,4 @@ Cam.begin();
 CamSheildInneshinize(Com,350,Regalur);
 CamRobo.SplitRobo(50,100,100,100,100);
 }
+Sheild
