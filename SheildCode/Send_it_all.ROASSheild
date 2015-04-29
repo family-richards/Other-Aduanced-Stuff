@@ -3,3 +3,5 @@ Sheild(SendIt) {
 Sheild(SendIt);
 SendShildSetup(ComMade);
 }
+SheildDone();
+}
