@@ -1,0 +1,5 @@
+ROAS(trinket,vrsh) {
+trinket() {
+vrsh(Pro5v,reg5v,Pro3.3v,reg3.3v);
+}
+}
