@@ -3,6 +3,7 @@ AdoptScript(trinket) {
 Driver = USBtinyISP ;
 DriverUnder = libusb-/*Your Computer's Operating System*/ ;
 CodingLang = .ino or arduino or trinket arduino ;
+invited(trinket);
 }
 AdoptDone();
 }
